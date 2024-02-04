@@ -18,3 +18,6 @@ I have tried to follow Clean Architecture principles along with best practices s
 - Infrastrcuture Layer
 - Business Logic Layer
 - Presentation Layer
+
+
+To run the project execute the TabelScript attached under Script folder in WebApi project. After executing on sql server , change the connextuonstring of your DB and run it locally.
